@@ -1,0 +1,8 @@
+C:\Users\TEMP.VLO30-11.020\AppData\Local\Temporary Projects\vector\bin\Debug\vector.dll
+C:\Users\TEMP.VLO30-11.020\AppData\Local\Temporary Projects\vector\bin\Debug\vector.pdb
+C:\Users\TEMP.VLO30-11.020\AppData\Local\Temporary Projects\vector\obj\Debug\vector.dll
+C:\Users\TEMP.VLO30-11.020\AppData\Local\Temporary Projects\vector\obj\Debug\vector.pdb
+C:\Users\TEMP.VLO30-11.020\documents\visual studio 2010\Projects\Vector\Vector\bin\Debug\Vector.dll
+C:\Users\TEMP.VLO30-11.020\documents\visual studio 2010\Projects\Vector\Vector\bin\Debug\Vector.pdb
+C:\Users\TEMP.VLO30-11.020\documents\visual studio 2010\Projects\Vector\Vector\obj\Debug\Vector.dll
+C:\Users\TEMP.VLO30-11.020\documents\visual studio 2010\Projects\Vector\Vector\obj\Debug\Vector.pdb

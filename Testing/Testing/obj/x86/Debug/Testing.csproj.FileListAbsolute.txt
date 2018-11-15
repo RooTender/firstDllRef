@@ -1,0 +1,8 @@
+C:\Users\TEMP.VLO30-11.020\AppData\Local\Temporary Projects\Testing\bin\Debug\Testing.exe
+C:\Users\TEMP.VLO30-11.020\AppData\Local\Temporary Projects\Testing\bin\Debug\Testing.pdb
+C:\Users\TEMP.VLO30-11.020\AppData\Local\Temporary Projects\Testing\obj\x86\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.VLO30-11.020\AppData\Local\Temporary Projects\Testing\obj\x86\Debug\Testing.exe
+C:\Users\TEMP.VLO30-11.020\AppData\Local\Temporary Projects\Testing\obj\x86\Debug\Testing.pdb
+C:\Users\TEMP.VLO30-11.020\AppData\Local\Temporary Projects\Testing\bin\Debug\MyVector.dll
+C:\Users\TEMP.VLO30-11.020\documents\visual studio 2010\Projects\Testing\Testing\obj\x86\Debug\Testing.exe
+C:\Users\TEMP.VLO30-11.020\documents\visual studio 2010\Projects\Testing\Testing\obj\x86\Debug\Testing.pdb

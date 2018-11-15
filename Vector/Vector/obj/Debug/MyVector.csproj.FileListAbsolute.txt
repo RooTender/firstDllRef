@@ -1,0 +1,4 @@
+C:\Users\TEMP.VLO30-11.020\documents\visual studio 2010\Projects\Vector\Vector\bin\Debug\MyVector.dll
+C:\Users\TEMP.VLO30-11.020\documents\visual studio 2010\Projects\Vector\Vector\bin\Debug\MyVector.pdb
+C:\Users\TEMP.VLO30-11.020\documents\visual studio 2010\Projects\Vector\Vector\obj\Debug\MyVector.dll
+C:\Users\TEMP.VLO30-11.020\documents\visual studio 2010\Projects\Vector\Vector\obj\Debug\MyVector.pdb
